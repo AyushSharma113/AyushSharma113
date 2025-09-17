@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Lms](https://github.com/AyushSharma113/LMS)
 
-- 🌱 I’m currently learning **Typescript and Next js**
+- 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [github.com/AyushSharma113](github.com/AyushSharma113)
 
