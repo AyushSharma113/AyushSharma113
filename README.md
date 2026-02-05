@@ -107,12 +107,6 @@ agent.execute_mission()
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" />
 
-### `🔗 BLOCKCHAIN DEVELOPMENT`
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" />
-
 ### `💻 FULL STACK (MERN)`
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" />
@@ -137,81 +131,11 @@ agent.execute_mission()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 📊 `[INTEL] GITHUB OPERATIONS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Srizdebnath&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=ff0080&border_color=00ff41&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srizdebnath&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&langs_count=8&hide_border=false&border_radius=10" width="49%" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Srizdebnath&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15&title=Stars,Commits,Followers,Repositories" />
-
 </div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-## 🗺️ `[ROADMAP] UPGRADE PATH`
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'darkMode':'true', 'primaryColor':'#00ff41', 'primaryTextColor':'#fff', 'primaryBorderColor':'#00ff41', 'lineColor':'#ff0080', 'secondaryColor':'#00d4ff', 'tertiaryColor':'#0d1117'}}}%%
-graph LR
-    A[💻 Full Stack Dev] -->|MERN| B[🌐 Web3 Initiate]
-    B -->|Solidity/Eth| C[⛓️ Smart Contract Engineer]
-    C -->|Rust/Solana| D[🚀 Blockchain Architect]
-    A -->|Python| E[🤖 AI Enthusiast]
-    E -->|TensorFlow| F[🧠 ML Practitioner]
-    D & F --> G[🔥 THE SINGULARITY: AI + BLOCKCHAIN]
-    
-    style A fill:#00ff41,stroke:#00ff41,color:#000
-    style B fill:#00d4ff,stroke:#00d4ff,color:#000
-    style C fill:#00d4ff,stroke:#00d4ff,color:#000
-    style D fill:#ff0080,stroke:#ff0080,color:#fff
-    style E fill:#00d4ff,stroke:#00d4ff,color:#000
-    style F fill:#00d4ff,stroke:#00d4ff,color:#000
-    style G fill:#0d1117,stroke:#ff0080,color:#ff0080,stroke-width:2px,stroke-dasharray: 5 5
-```
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-## 📡 `[OMNI-LINK] ESTABLISH UPLINK`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sriz_Debnath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/srizdebnath)
-<br>
-**encrypted_channel_01**
-
-</td>
-<td align="center">
-
-[![Twitter](https://img.shields.io/badge/X-@Srizdebnath-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/Srizdebnath)
-<br>
-**public_feed**
-
-</td>
-<td align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sriz.netlify.app-00ff41?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://sriz.netlify.app/)
-<br>
-**base_of_operations**
-
-</td>
-</tr>
-</table>
 
 ### `📨 DIRECT MESSAGE PROTOCOL`
 
