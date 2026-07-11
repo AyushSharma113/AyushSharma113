@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/profile-card1.png" width="100%" />
+  <img src="/pc.png" width="100%" />
 </p>
 <div align="center">
   <img src="banner.gif" width="100%" alt="Hacker Terminal" />
